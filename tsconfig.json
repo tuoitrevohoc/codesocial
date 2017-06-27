@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./app",
+    "module": "commonjs",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "sourceMap": true,
+    "jsx": "react",
+    "target": "es2015"
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
